@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0940-fruit-into-baskets) |
 | [1036-rotting-oranges](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0940-fruit-into-baskets) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1500-count-largest-group) |
 ## Sliding Window
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0868-push-dominoes) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
