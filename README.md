@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0392-is-subsequence) |
 | [0868-push-dominoes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0868-push-dominoes) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3639-zero-array-transformation-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
