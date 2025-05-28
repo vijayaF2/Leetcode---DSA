@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0871-keys-and-rooms](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2121-find-if-path-exists-in-graph) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2121-find-if-path-exists-in-graph) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Graph
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2121-find-if-path-exists-in-graph) |
+## Tree
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 <!---LeetCode Topics End-->
