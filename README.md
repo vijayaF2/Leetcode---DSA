@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0871-keys-and-rooms](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1036-rotting-oranges) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Graph
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0871-keys-and-rooms](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1039-find-the-town-judge) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1916-find-center-of-star-graph](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2121-find-if-path-exists-in-graph) |
 ## Array
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1293-three-consecutive-odds) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2265-partition-array-according-to-given-pivot) |
