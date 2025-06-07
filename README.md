@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1039-find-the-town-judge) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1500-count-largest-group) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sliding Window
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3194-find-words-containing-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
@@ -163,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0820-find-eventual-safe-states) |
+## Stack
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
