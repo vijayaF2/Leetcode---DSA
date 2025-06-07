@@ -2,13 +2,13 @@ class Solution {
 public:
     string clearStars(string s) {
         unordered_map<int,int>m;
-        auto com=[](pair<char,int>left,pair<char,int>right){
-            if(left.first==right.first){
-                return left.second<right.second;
-            }
-            return left.first>right.first;
-        };
-        priority_queue<pair<char,int>,vector<pair<char,int>>,decltype(com)>p(com);
+        // auto com=[](pair<char,int>left,pair<char,int>right){
+        //     if(left.first==right.first){
+        //         return left.second<right.second;
+        //     }
+        //     return left.first>right.first;
+        // };
+        priority_queue<pair<char,int>,vector<pair<char,int>>,greater<pair<char,int>>>p;
         if(s[0]=='*') {
         m[0]++;
         }
@@ -19,12 +19,12 @@ public:
         {
             if(s[i]!='*')
             {
-               p.push({s[i],i});
+               p.push({s[i],i*-1});
             }
             else{
                 m[i]++;
                 pair<char,int>p1=p.top();
-                m[p1.second]++;
+                m[p1.second*-1]++;
                 p.pop();
             }
         }
