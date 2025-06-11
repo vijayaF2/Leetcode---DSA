@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2121-find-if-path-exists-in-graph) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0210-course-schedule-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0547-number-of-provinces](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1036-rotting-oranges) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1039-find-the-town-judge) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2121-find-if-path-exists-in-graph) |
 ## Tree
 |  |
