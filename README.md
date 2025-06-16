@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2121-find-if-path-exists-in-graph) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0945-snakes-and-ladders) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1039-find-the-town-judge) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0744-network-delay-time) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Binary Search
 |  |
@@ -237,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0399-evaluate-division) |
+| [0744-network-delay-time](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
