@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0207-course-schedule) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0200-number-of-islands) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0222-count-complete-tree-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Topological Sort
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Design
 |  |
