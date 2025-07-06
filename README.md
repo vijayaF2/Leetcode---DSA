@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0238-product-of-array-except-self) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0169-majority-element) |
 | [0433-minimum-genetic-mutation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0940-fruit-into-baskets) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Prefix Sum
@@ -273,6 +276,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
