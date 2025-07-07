@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-sum-of-even-numbers-after-queries](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [2048-build-array-from-permutation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 ## String
 |  |
 | ------- |
@@ -295,4 +296,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
