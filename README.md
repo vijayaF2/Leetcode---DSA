@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0189-rotate-array) |
 | [0670-maximum-swap](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0670-maximum-swap) |
 | [1500-count-largest-group](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1500-count-largest-group) |
@@ -294,7 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0002-add-two-numbers) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2299-merge-nodes-in-between-zeros) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
