@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0169-majority-element) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0189-rotate-array) |
 | [0670-maximum-swap](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0670-maximum-swap) |
 | [1500-count-largest-group](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1500-count-largest-group) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0014-longest-common-prefix) |
 | [0127-word-ladder](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0179-largest-number) |
