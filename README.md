@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0189-rotate-array) |
 | [0670-maximum-swap](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0670-maximum-swap) |
 | [1500-count-largest-group](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1500-count-largest-group) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0392-is-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -327,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0002-add-two-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
