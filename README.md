@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0238-product-of-array-except-self) |
 | [0399-evaluate-division](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0399-evaluate-division) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0940-fruit-into-baskets) |
 ## Matrix
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0238-product-of-array-except-self) |
 | [3639-zero-array-transformation-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3639-zero-array-transformation-i) |
 ## Trie
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0222-count-complete-tree-nodes) |
 | [3881-minimize-maximum-component-cost](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3881-minimize-maximum-component-cost) |
 ## Binary Tree
