@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
