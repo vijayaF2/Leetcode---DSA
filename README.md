@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0868-push-dominoes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0868-push-dominoes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3194-find-words-containing-character) |
