@@ -359,4 +359,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0620-not-boring-movies) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
