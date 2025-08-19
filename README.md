@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0620-not-boring-movies) |
+| [0627-swap-salary](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0627-swap-salary) |
 | [1161-project-employees-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
