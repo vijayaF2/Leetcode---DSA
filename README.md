@@ -370,5 +370,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-daily-leads-and-partners](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1877-find-followers-count) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1892-find-total-time-spent-by-each-employee) |
+| [1948-rearrange-products-table](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1948-rearrange-products-table) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
