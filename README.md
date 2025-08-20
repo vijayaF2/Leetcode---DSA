@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-patients-with-a-condition](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1811-fix-names-in-a-table](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1811-fix-names-in-a-table) |
 | [1837-daily-leads-and-partners](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1877-find-followers-count) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1892-find-total-time-spent-by-each-employee) |
