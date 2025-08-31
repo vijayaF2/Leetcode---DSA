@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0179-largest-number) |
 | [0670-maximum-swap](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0670-maximum-swap) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
