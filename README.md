@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
+| [2887-sort-vowels-in-a-string](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3396-valid-word) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0179-largest-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [2887-sort-vowels-in-a-string](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3881-minimize-maximum-component-cost](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3881-minimize-maximum-component-cost) |
 ## Divide and Conquer
