@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1039-find-the-town-judge) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1500-count-largest-group](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1500-count-largest-group) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0868-push-dominoes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0868-push-dominoes) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
