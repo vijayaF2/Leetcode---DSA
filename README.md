@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3639-zero-array-transformation-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1500-count-largest-group](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1500-count-largest-group) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Prefix Sum
 |  |
