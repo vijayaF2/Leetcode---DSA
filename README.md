@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0940-fruit-into-baskets) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0389-find-the-difference](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0389-find-the-difference) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0014-longest-common-prefix) |
 | [0127-word-ladder](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0179-largest-number) |
+| [0389-find-the-difference](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0433-minimum-genetic-mutation) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0179-largest-number) |
+| [0389-find-the-difference](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [2887-sort-vowels-in-a-string](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
