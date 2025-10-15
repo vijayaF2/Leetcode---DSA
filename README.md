@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3639-zero-array-transformation-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0222-count-complete-tree-nodes) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3881-minimize-maximum-component-cost](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3881-minimize-maximum-component-cost) |
 ## Binary Tree
 |  |
