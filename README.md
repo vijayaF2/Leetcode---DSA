@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1500-count-largest-group](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1500-count-largest-group) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2432-number-of-zero-filled-subarrays) |
