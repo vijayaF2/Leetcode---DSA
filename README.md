@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2048-build-array-from-permutation) |
+| [2169-simple-bank-system](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1500-count-largest-group](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1500-count-largest-group) |
+| [2169-simple-bank-system](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0498-diagonal-traverse) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [2048-build-array-from-permutation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2048-build-array-from-permutation) |
+| [2169-simple-bank-system](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 ## String
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0155-min-stack) |
+| [2169-simple-bank-system](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2169-simple-bank-system) |
 ## Shortest Path
 |  |
 | ------- |
