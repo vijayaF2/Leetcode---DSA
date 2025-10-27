@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2169-simple-bank-system) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0695-max-area-of-island) |
 | [0945-snakes-and-ladders](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1036-rotting-oranges) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Math
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0868-push-dominoes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2887-sort-vowels-in-a-string](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2887-sort-vowels-in-a-string) |
