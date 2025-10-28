@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3639-zero-array-transformation-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 ## String
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0238-product-of-array-except-self) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3639-zero-array-transformation-i) |
 ## Trie
 |  |
