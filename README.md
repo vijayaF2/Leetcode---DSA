@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3639-zero-array-transformation-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3639-zero-array-transformation-i) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Backtracking
