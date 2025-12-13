@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3606-coupon-code-validator) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3639-zero-array-transformation-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3639-zero-array-transformation-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3606-coupon-code-validator) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3606-coupon-code-validator](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3606-coupon-code-validator) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3606-coupon-code-validator](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3606-coupon-code-validator) |
 | [3881-minimize-maximum-component-cost](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3881-minimize-maximum-component-cost) |
 ## Divide and Conquer
 |  |
