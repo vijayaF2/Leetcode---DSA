@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0088-merge-sorted-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0189-rotate-array) |
