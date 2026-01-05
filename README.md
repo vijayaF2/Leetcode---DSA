@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1975-maximum-matrix-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2169-simple-bank-system) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0695-max-area-of-island) |
 | [0945-snakes-and-ladders](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1036-rotting-oranges) |
+| [1975-maximum-matrix-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Math
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1975-maximum-matrix-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1975-maximum-matrix-sum) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3075-maximize-happiness-of-selected-children) |
