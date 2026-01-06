@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0871-keys-and-rooms) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2092-find-all-people-with-secret](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2092-find-all-people-with-secret) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1036-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2092-find-all-people-with-secret](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2092-find-all-people-with-secret) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0222-count-complete-tree-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Topological Sort
 |  |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0222-count-complete-tree-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Design
 |  |
 | ------- |
