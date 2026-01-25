@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1975-maximum-matrix-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2169-simple-bank-system) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0940-fruit-into-baskets) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Matrix
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1018-largest-perimeter-triangle](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2092-find-all-people-with-secret](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2092-find-all-people-with-secret) |
 | [2887-sort-vowels-in-a-string](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3075-maximize-happiness-of-selected-children) |
