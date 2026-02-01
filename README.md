@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3194-find-words-containing-character) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
 |  |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2092-find-all-people-with-secret](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2092-find-all-people-with-secret) |
 | [2887-sort-vowels-in-a-string](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2887-sort-vowels-in-a-string) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3606-coupon-code-validator](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3606-coupon-code-validator) |
