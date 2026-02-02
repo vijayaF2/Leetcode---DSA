@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2651-calculate-delayed-arrival-time](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2651-calculate-delayed-arrival-time) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3676-smallest-number-with-all-set-bits) |
