@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3639-zero-array-transformation-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3861-minimum-capacity-box](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3861-minimum-capacity-box) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
