@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1975-maximum-matrix-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
