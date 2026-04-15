@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2887-sort-vowels-in-a-string](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
