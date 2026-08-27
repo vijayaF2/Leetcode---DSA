@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0078-subsets) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0200-number-of-islands) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0198-house-robber) |
