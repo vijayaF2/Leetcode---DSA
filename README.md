@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vijayaF2/Leetcode---DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0518-coin-change-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0868-push-dominoes) |
@@ -536,11 +539,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
