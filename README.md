@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0238-product-of-array-except-self) |
 | [0399-evaluate-division](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0399-evaluate-division) |
+| [0416-partition-equal-subset-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0695-max-area-of-island](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0695-max-area-of-island) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0868-push-dominoes) |
 | [1463-cherry-pickup-ii](https://github.com/vijayaF2/Leetcode---DSA/tree/master/1463-cherry-pickup-ii) |
@@ -524,4 +526,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/vijayaF2/Leetcode---DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/vijayaF2/Leetcode---DSA/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
